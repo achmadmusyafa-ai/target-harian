@@ -1,0 +1,1 @@
+{"name":"Target Harian","short_name":"Target","description":"Pencatat kegiatan harian dengan target, streak, dan statistik.","start_url":"./","scope":"./","display":"standalone","background_color":"#121A33","theme_color":"#121A33","lang":"id","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
